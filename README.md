@@ -14,7 +14,8 @@
 <!-- After connecting to MySQL, take a screenshot of the sidebar showing "connected" status -->
 <!-- Save your image as: screenshots/01-connection.png -->
 
-![Database Connection](screenshots/01-connection.png)
+![Database Connection](<img width="1918" height="222" alt="image" src="https://github.com/user-attachments/assets/95da859e-f908-46f5-b75b-513acd551a79" />
+)
 
 ---
 
