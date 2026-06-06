@@ -50,15 +50,7 @@
 
 ---
 
-### 🔁 Self-Correction in Action
-<!-- (Optional) Screenshot showing "1 self-correction" badge on a result card -->
-<!-- Save your image as: screenshots/06-self-correction.png -->
-
-![Self Correction](screenshots/06-self-correction.png)
-
----
-
-### 📜 Query History
+### 📜 Large Query
 <!-- Screenshot of the history panel on the left sidebar with past queries -->
 <!-- Save your image as: screenshots/07-history.png -->
 
