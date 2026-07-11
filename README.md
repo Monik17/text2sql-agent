@@ -1,14 +1,13 @@
 # 🗄️ Text-to-SQL Agent
 **LangChain + LangGraph + Groq (Llama 3) + MySQL**
 
-> Ask questions in plain English — the agent writes SQL, runs it on your MySQL database, self-corrects errors automatically, and explains the results.
 
 ---
 
 ## 📸 Screenshots
 
 > **Upload your screenshots here after running the project!**
-> Replace each placeholder below with your actual image files.
+
 
 ### 🔌 Database Connection
 <!-- After connecting to MySQL, take a screenshot of the sidebar showing "connected" status -->
