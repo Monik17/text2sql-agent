@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-> **Upload your screenshots here after running the project!**
+
 
 
 ### 🔌 Database Connection
